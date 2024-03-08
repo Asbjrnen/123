@@ -1,7 +1,7 @@
 /*
     Følgende klasse repræsentere en bankkonto.
     I vores program er denne klasse vores super klasse, som de to andre klasser NemKonto og OpsparingsKonto arver fra.
-    OpsparingsKonto og NemKonto er altså sub-klasser af Konto.
+    OpsparingsKonto og NemKonto er altså subklasser af Konto.
 
     Denne klasse er allerede udfyldt for dig, men brug lidt tid på at forstå dens attributes og metoder.
 */
