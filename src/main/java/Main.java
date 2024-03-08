@@ -5,7 +5,7 @@ public class Main {
 
         // Udfork nu de forskellige objekter og hvad de kan.
 
-        // Reflekter efterfølgende over de muligheder som arv giver i vores program design - både ift. til denne lille øvelse, men også ift. Adventure.
+        // Læs efterfølgende koden du har skrevet igennem, og reflekter over de muligheder, som arv giver i vores program design - både ift. til denne lille øvelse, men også ift. Adventure.
 
     }
 }
